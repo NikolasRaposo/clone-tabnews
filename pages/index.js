@@ -1,13 +1,5 @@
 function Home() {
-  return <h1>Tititititi! Sou eu!</h1>;
-}
-
-function teste() {
-  console.log("teste");
-}
-
-function teste2() {
-  console.log("teste");
+  return <h1>Bem vindo a NexTech Games Group</h1>;
 }
 
 export default Home;
